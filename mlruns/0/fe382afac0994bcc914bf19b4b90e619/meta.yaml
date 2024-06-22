@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wenda/Downloads/ml-flow-examples/mlruns/0/fe382afac0994bcc914bf19b4b90e619/artifacts
+end_time: 1719072412386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe382afac0994bcc914bf19b4b90e619
+run_name: debonair-koi-544
+run_uuid: fe382afac0994bcc914bf19b4b90e619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719072410433
+status: 3
+tags: []
+user_id: wenda
