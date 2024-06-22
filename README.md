@@ -22,10 +22,24 @@ You can install the required packages using pip:
 pip install pandas numpy scikit-learn mlflow
 ```
 
+## Dagshub 
 
-## MLFLOW Credentials 
+dagshub
 
+```bash
 MLFLOW_TRACKING_URI=https://dagshub.com/jyotiyadav94/ml-flow-examples.mlflow
-MLFLOW_TRACKING_USERNAME=jyotiyadav94
-MLFLOW_TRACKING_PASSWORD= San@998855
+MLFLOW_TRACKING_USERNAME=
+MLFLOW_TRACKING_PASSWORD=
+```
 
+python script.py
+
+Run this to export as env variables:
+
+```bash
+export MLFLOW_TRACKING_URI= https://dagshub.com/jyotiyadav94/ml-flow-examples.mlflow
+
+export MLFLOW_TRACKING_USERNAME= 
+
+export MLFLOW_TRACKING_PASSWORD=
+```
